@@ -1,0 +1,1 @@
+To solve this problem I will use a machine learning algorithm(categorial) based on the most common venues for a neighborhood.
