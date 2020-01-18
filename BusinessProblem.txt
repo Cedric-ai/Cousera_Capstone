@@ -1,0 +1,3 @@
+A big fast-food chain wants to open a new store in Toronto. 
+They already tried several locations but all of them haven't been profitable and were closed a few months after the opening.
+Now they ask a data scientist to help them chose their next location.
